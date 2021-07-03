@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+ <head>
+
+  <title>Document</title>
+ </head>
+ <body style="margin:0px;
+			  background-color:silver">
+  <div style="height:760px;
+			 width:100px;
+			 border:300px;
+			 background-color:white;
+			 border-right:0px solid;
+			 box-shadow:0px 0px 10px black;
+			 float:left">
+	<div>
+		<img style="height:95px;
+					width:100px"src="mylogo.png"></img>
+	</div>
+
+	<div style="text-align:center;
+				font-weight:bold">
+		<img style="height:60px;
+					width:60px;
+					margin-bottom:0px" src="student.png"></img>
+					Students
+	</div>
+	<div style="text-align:center;
+				font-weight:bold;
+				border-left:4px solid;
+				border-color:dodgerblue;
+				background-color:lightblue">
+		<img style="height:60px;
+					width:60px;
+					margin-bottom:0px" src="lesson.png"></img>
+					Lesson Plan
+	</div>
+	<div style="text-align:center;
+				font-weight:bold">
+		<img style="height:60px;
+					width:60px;
+					margin-bottom:0px" src="settings.png"></img>
+					Settings
+	</div>
+ </div>
+
+ <div style="height:100px;
+			 width:100%;
+			 background-color:white;
+			 float:top">
+ </div>
+
+<div style="font-color:skyblue;
+				font-weight:bold">
+<img style="height:13px;
+			width:13px;
+			margin-left:50px;
+			margin-right:10px;
+			margin-top:50px" src="leftarrow.png">Videos</img>
+</div>
+<div>
+<input  style=" height:30px;
+				width:1000px;
+				border-radius:5px;
+				font-weight:bold;
+				margin-top:40px;
+				margin-bottom:20px;
+				margin-left:200px;
+				border : 0px solid;
+				outline : 0px;
+				padding-left:10px" placeholder="Insert URL here "></input>
+</div>
+<label style = "textalign : center;
+				padding-left : 700px;
+				font-weight:bold">or</label>
+<div style="height:85px;
+			width:150px;
+			text-align:center;
+			font-weight:bold;
+			margin-top:20px;
+			padding-top:64px;
+			background-color:white;
+			margin-left:300px">
+		<label>upload</label>
+		</div>
+ </body>
+</html>
